@@ -67,6 +67,21 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Once your contribution is accepted and merged, they'll provide you with an address form.
 - **Notes**: Full details on the [Cloudinary blog here](https://cloudinary.com/blog/hacktoberfest-2025)
 
+### D
+
+#### devICT
+
+- **Swag**: After making two qualifying pull requests, participants become eligible to receive *some local swag*.
+- **Requirements**:
+  1. Pick an open issue from one of the qualifying Wichita community/open-source projects
+  2. Make changes locally and submit a pull request (repeat for a second PR)
+  3. Pull requests must be valid and accepted (i.e. meaningful contributions)
+* **How to sign up / participate**: After your contributions are accepted and merged, you’ll become eligible for swag. You can sign up with GitHub and check your status.
+* **Notes / Qualifying projects**:
+  * Pull requests against any of the Wichita developer community organizations listed on their “Qualifying Projects” page count.
+  * They also list specific individual (Wichita) projects (e.g. *fort-rpg*, *Camelot*, *Alpine AJAX*, *What the Tofu*, etc.) as eligible targets for contributions.
+- **Notes**: Full details on the [devICT website here](https://hacktoberfest.devict.org/)
+
 ### G
 
 #### **goose**
