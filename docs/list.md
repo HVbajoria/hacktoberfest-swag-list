@@ -53,6 +53,26 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### C
 
+#### Cebu Community
+
+- **Swag / Prizes**:
+  * Top participants can receive “exclusive swag & rewards” from event partners.
+  * Top contributors, best local contributions, and winning teams get special recognition and prizes.
+- **Requirements / What counts**:
+  1. Submit an **accepted pull request** to a public open-source repository (code, docs, design, translations all count)
+  2. Quality over quantity: meaningful contributions are preferred over trivial ones
+  3. Contributions to **Cebu-based projects** count double (or carry extra weight)
+- **How to sign up / participate**:
+  * Register via Hacktoberfest.com and also create an event-specific account via “OneCebby” to stay updated, find teams, and track participation.
+  * Form or join teams (up to 4 members) during the kickoff or through community channels.
+  * The hackathon runs from **October 5 to 26, 2025**
+- **Notes / Additional details**:
+  * Cebu’s event is more than just PRs: there is a 20-day hackathon component where teams build new open source projects from scratch. 
+  * They have judging categories like *Best Overall Project*, *Best Use of AI*, *Most Fun / Best Easter Egg*, *Best Open Source Contribution*. 
+  * Even non-developers (designers, writers, etc.) can participate; contributions aren’t limited to code.
+  * The event is free and open to everyone. 
+  * Full details on the [Cebu Community blog here](https://hacktoberfest.jscebu.org)
+
 #### Cloudinary
 
 - **Swag**: The first 30 participants to submit a valid pull request to one of the Cloudinary SDK repos (see below) are rewarded with:
